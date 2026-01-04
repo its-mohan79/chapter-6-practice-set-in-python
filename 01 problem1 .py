@@ -15,4 +15,4 @@ elif(a3>a1 and a3>a2 and a3>a4):
 elif(a4>a1 and a4>a2 and a4>a3):
     print("gretest number is a4:",a4)
 
-print("end of the prograam")               
+print("end of the program")               
